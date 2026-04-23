@@ -35,7 +35,7 @@ The screenshots below are captured from the current app in this repository.
 
 | Desktop | Tablet |
 | --- | --- |
-| ![Campsite search desktop](assets/screenshots/search-desktop.png) | ![Campsite search tablet](assets/screenshots/search-tablet.png) |
+| ![Campsite search results desktop](assets/screenshots/search-results-desktop.png) | ![Campsite search tablet](assets/screenshots/search-tablet.png) |
 
 | Mobile |
 | --- |
